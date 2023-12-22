@@ -1,4 +1,5 @@
-[
+{
+  "YourTableName": [
     {
       "PutRequest": {
         "Item": {
@@ -110,4 +111,4 @@
       }
     }
   ]
-  
+}
