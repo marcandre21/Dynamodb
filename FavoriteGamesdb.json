@@ -1,0 +1,113 @@
+[
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "2"},
+          "GameName": {"S": "NBA 2K23"},
+          "GameType": {"S": "Sports"},
+          "Publisher": {"S": "2k Games"},
+          "Ratings": {"N": "98"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "8"},
+          "GameName": {"S": "Assassin's Creed Valhalla"},
+          "GameType": {"S": "Action role-playing"},
+          "Publisher": {"S": "Ubisoft"},
+          "Ratings": {"N": "87"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "9"},
+          "GameName": {"S": "Marvel's Spider-Man 2"},
+          "GameType": {"S": "Action-Adventure"},
+          "Publisher": {"S": "Sony Interactive Entertainment"},
+          "Ratings": {"N": "91"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "1"},
+          "GameName": {"S": "Madden NFL23"},
+          "GameType": {"S": "Sports"},
+          "Publisher": {"S": "EA Sports"},
+          "Ratings": {"N": "99"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "6"},
+          "GameName": {"S": "EA Sports FIFA 23"},
+          "GameType": {"S": "Sports"},
+          "Publisher": {"S": "EA Sports"},
+          "Ratings": {"N": "97"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "5"},
+          "GameName": {"S": "EA Sports UFC 5"},
+          "GameType": {"S": "MMA"},
+          "Publisher": {"S": "EA Sports"},
+          "Ratings": {"N": "93"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "4"},
+          "GameName": {"S": "Grand Theft Auto V"},
+          "GameType": {"S": "Action-Adventure"},
+          "Publisher": {"S": "Rockstar Games"},
+          "Ratings": {"N": "95"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "7"},
+          "GameName": {"S": "Red Dead Redemption 2"},
+          "GameType": {"S": "Action-Adventure"},
+          "Publisher": {"S": "Rockstar Games"},
+          "Ratings": {"N": "96"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "3"},
+          "GameName": {"S": "Call of Duty: Modern Warfare III"},
+          "GameType": {"S": "Shooter-Adventure"},
+          "Publisher": {"S": "Activision"},
+          "Ratings": {"N": "98"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "GameID": {"S": "10"},
+          "GameName": {"S": "Mortal Kombat 1"},
+          "GameType": {"S": "Fighting"},
+          "Publisher": {"S": "Warner Bros. Games"},
+          "Ratings": {"N": "93"}
+        }
+      }
+    }
+  ]
+  
