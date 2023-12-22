@@ -1,5 +1,5 @@
 {
-  "YourTableName": [
+  "FavoriteGamesdb": [
     {
       "PutRequest": {
         "Item": {
